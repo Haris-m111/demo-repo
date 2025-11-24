@@ -1,3 +1,5 @@
-# Demo 
+# Demo
 
-Some Description!
+This is my First Repositary.
+
+Author: Haris Manzoor
